@@ -1,0 +1,7 @@
+langchain==0.3.7
+langchain-openai==0.2.8
+python-dotenv==1.0.1
+requests==2.32.3
+# MCP Python SDK (installable via pip)
+mcp==1.0.0
+anyio>=4.3.0

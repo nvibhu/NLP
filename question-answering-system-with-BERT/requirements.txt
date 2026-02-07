@@ -1,0 +1,13 @@
+transformers==4.46.2
+datasets==3.1.0
+evaluate==0.4.3
+numpy
+pandas
+tqdm
+scikit-learn
+flask
+jinja2
+ipykernel
+jupyter
+matplotlib
+seaborn

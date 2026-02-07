@@ -1,0 +1,16 @@
+{
+  "name": "ai-agents-with-mcp-and-langchain",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start:mcp": "node mcp-server/server.mjs",
+    "agent": "node agent/agent.mjs"
+  },
+  "dependencies": {
+    "@langchain/openai": "^0.3.8",
+    "@modelcontextprotocol/sdk": "^0.6.0",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  }
+}
